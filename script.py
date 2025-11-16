@@ -6,7 +6,7 @@ pombo = 5
 
 if pombo == 5:
     print("tem 5 pombos")
-else
+else:
     print("é mentira")
 
-    
+
