@@ -2,7 +2,7 @@ print("pruuuu")
 
 print("capruff")
 
-pombo = 5
+pombo = 6
 
 if pombo == 5:
     print("tem 5 pombos")
