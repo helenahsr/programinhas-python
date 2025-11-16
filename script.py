@@ -2,9 +2,9 @@ print("pruuuu")
 
 print("capruff")
 
-pombo = 5
+pombo = input("Quantos pombos tem? ")
 
-if pombo == 5:
+if int(pombo) == 5:
     print("tem 5 pombos")
 else:
     print("é mentira")
